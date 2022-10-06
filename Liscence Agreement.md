@@ -48,3 +48,21 @@ Section II:
     Landen Barker
     Landen.Barker@student.nisdtx.org
     9th Grade Student
+
+Section III (Purchases):
+
+  • Purchases range anywhere from $20 - $50
+  • The ONLY Payment methods accepted are Cash
+  
+  If any payments occur during the (American) Holidays, pricing will be 25% off.
+  
+  The Holidays include:
+  
+    • Christmas
+    • Thanksgiving
+    • Halloween
+    • Martin Luther King Jr. Day
+    • Veterans Day
+    • Memorial Day
+    • 4th of July
+    • New Years
