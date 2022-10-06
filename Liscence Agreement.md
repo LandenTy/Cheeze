@@ -13,7 +13,7 @@ Section I:
     
   Subsection B:
     
-    I recognize this tool is not, cannot, and will not be used for any of the following purposes:
+    I recognize this tool is NOT and WILL NOT be used for any of the following purposes:
     
     • Adult Content
     • Games
@@ -41,7 +41,7 @@ Section II:
     
     To upload your signature, please fill out the following Google Form:
     
-    • https://forms.gle/Pn7ZypK5dY96b99q6
+      • https://forms.gle/Pn7ZypK5dY96b99q6
     
     Best of Regards!
     
