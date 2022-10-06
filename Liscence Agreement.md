@@ -2,7 +2,7 @@ By agreeing and signing your name to the following terms, you agree with:
 
 Section I:
   
-  I [NAME] Agree that I am %100 responsible for anything I use this tool for.
+  I [NAME] Agree that I am 100% responsible for anything I use this tool for.
   
   Subsection A:
     
