@@ -6,7 +6,7 @@ Section I:
   
   Subsection A:
     
-    I recognize ANYTHING and EVERYTHING I use this tool for can, and will be held against me.
+    I recognize ANYTHING and EVERYTHING I use this tool for can, be held against me.
     This tool was made completely for educational purposed ONLY, and therfor I recognize the
     creator (Landen Barker) is NOT and WILL NOT be held responsible for ANY of my uses with
     this tool.
